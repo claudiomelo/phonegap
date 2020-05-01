@@ -1,8 +1,8 @@
 {
   "background_color": "#FFF",
   "display": "standalone",
-  "name": "DenEvents",
-  "short_name": "DenEvents",
+  "name": "EcoBR Brasil",
+  "short_name": "EcoBR Brasil",
   "version": "com.example.hello",
   "description": "Discover trending events in Denmark",
   "author": "DustHQ",

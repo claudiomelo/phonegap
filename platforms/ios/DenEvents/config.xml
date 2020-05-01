@@ -31,7 +31,7 @@
     <feature name="SpinnerDialog">
         <param name="ios-package" value="CDVSpinnerDialog" />
     </feature>
-    <name>DenEvents</name>
+    <name>EcoBR Brasil</name>
     <description>
         Discover trending events in Denmark
     </description>
